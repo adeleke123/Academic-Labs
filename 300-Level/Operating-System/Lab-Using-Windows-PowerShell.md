@@ -35,6 +35,9 @@ In this lab, you will explore some of the functions of PowerShell.
 
 <img width="1097" height="616" alt="Screenshot from 2025-11-26 13-22-12" src="https://github.com/user-attachments/assets/276767e5-a49a-4a58-83c0-1453ceff2dde" />
 
+<img width="1184" height="354" alt="Screenshot from 2025-11-26 13-49-38" src="https://github.com/user-attachments/assets/1e748d30-d9b8-40f4-a993-9b967ff324c6" />
+
+
 
 
 
